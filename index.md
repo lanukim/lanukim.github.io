@@ -1,6 +1,5 @@
 title: Lanu Kim
 description: Sociology; Computational social science; Inequality; Science of science; Technology and society
-logo: [<img src="/assets/images/image.jpg" alt="">]
 
 ## Welcome to GitHub Pages
 
