@@ -1,6 +1,6 @@
 ## About
 
-I am a postdoctoral researcher at Stanford University and also work as a Data Science Scholar at Stanford’s Data Science Institute. My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. 
+I am a postdoctoral researcher at Stanford University and also work as a Data Science Scholar at Stanford’s Data Science Institute. My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 As a sociology Ph.D. participating in multiple projects rooted in big data and computational methods, I present three elements of my agenda that I will bring to my future teaching and research.  
 1. I believe the future of scholarship lies in interdisciplinary research. From my academic experience, I recognize that advances in data science have the potential to unlock enormous opportunities that will require both excellent data management/analysis expertise and the ability to ask key research questions. Thus, one primary motivation for my work lies in fully exploring these research opportunities.  
@@ -20,9 +20,12 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **M.A.** 2014. Sociology, University of Washington.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
-## Publications and working papers
+## Projects and following publications/working papers
 
 ### Echo chambers in science?
+
+While pursuing my Ph.D., I examined how technology has shaped our work practices among academics by focusing on the ways in which scientists engage with prior scientific literature. My dissertation idea was developed into an NSF-funded project, “Echo Chambers in Science” ([Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)). This project, which grew out of conversations I initiated with my advisor, investigated how the development of integrated academic search engines like Google Scholar may have transformed the citation behavior of researchers across multiple scientific fields. 
+
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
 
 **Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information School and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
@@ -30,6 +33,9 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. “Identifying Marginals Bias on Measures of Inequality.” [working paper]
 
 ### Gender inequality in academia
+
+As a postdoctoral fellow at Stanford, I have been involved in projects that study the role of gender in the process of knowledge creation. I began a project to investigate whether gendered research interests contribute to women’s underrepresentation in the professoriate. Through analyzing nearly 1 million PhDs who received a degree in U.S. institutions, this research has employed natural language processing techniques and advanced statistical methods to locate potential systematic bias toward particular research ideas. I have found that scientific knowledge associated with women (e.g., schooling or infants) is devalued in academia. 
+
 **Lanu Kim**, Daniel Smith, Bas Hofstra, and Daniel McFarland. “Gendered Knowledge and Its Impact on Career Outcomes.” [under review after R&R]
 
 **Lanu Kim**, Bas Hofstra, and Sebastian Galvez. “Differential Return on Performance Persists the Gender Pay Gap among Faculty in the Public University System.” [draft ready]
@@ -37,6 +43,9 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 Risi, Stephan, Crystal Lee, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. “What Would History Look Like Without Women?” [under review]
 
 ### Social and conceptual networks in academia
+
+I have been examining the structure of the formation of collaboration networks among faculty by combining several types of data sets, including grants, publications, and dissertation committees. In this project, I ask how faculty develops different types of collaborations and how to find who to connect.
+
 **Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel McFarland. “A Network Ecology of Scholar Collaborations.” [under review]
 
 **Lanu Kim**^, Hancheng Cao^, and Daniel McFarland. “Rediscovering Aristotle: Are We Creating New Science or Repackaging Old Science?” [^ co-first author] 
@@ -69,6 +78,9 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _Consultant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
 * Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _Principal Investigator_. 
 * Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
+
+## Software
+* R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
 
 ## News 
 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
