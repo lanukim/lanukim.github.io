@@ -40,7 +40,7 @@ As a postdoctoral fellow at Stanford, I have been involved in projects that stud
 
 **Lanu Kim**, Daniel Smith, Bas Hofstra, and Daniel McFarland. “Gendered Knowledge and Its Impact on Career Outcomes.” [under review after R&R]
 
-**Lanu Kim**, Bas Hofstra, and Sebastian Galvez. “Differential Return on Performance Persists the Gender Pay Gap among Faculty in the Public University System.” [draft ready]
+**Lanu Kim**, Bas Hofstra, and Sebastian Munoz-Najar Galvez. “Differential Return on Performance Persists the Gender Pay Gap among Faculty in the Public University System.” [draft ready]
 
 Risi, Stephan, Crystal Lee, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. “What Would History Look Like Without Women?” [under review]
 
