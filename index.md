@@ -4,7 +4,7 @@ I am a postdoctoral fellow at Stanford University. And .........
 
 ## Contact Info
 * Email: lanu.at.stanford.edu
-* Google Scholar: [Link][https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ]
+* Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ)
 
 ## Research interest keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Big Data; Gender; Inequality; Social Network Analysis
@@ -17,9 +17,6 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **M.A.** 2014. Sociology, University of Washington.
 
 **B.A.** 2007. Sociology and economics, Seoul National University.
-
-## News 
-한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link][http://www.kyosu.net/news/articleView.html?idxno=61059]
 
 ## Publications and working papers
 
@@ -57,6 +54,9 @@ Shin, Solee and **Lanu Kim**. 2013. “Organizing K-pop: Emergence and Market Ma
 Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic Approach on Voting Behaviors in the 17th Korean Assembly Using NOMINATE Analysis.” Korean Journal of Sociology 46(1):1-23. [In Korean] [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01316335)
 
 **Lanu Kim**. 2010. “A Study of Change in Residence Stability through Analyzing Home-Ownership Rates: A Case Study in Seoul, Republic of Korea, 1985-2005.” Seoul Studies 11(1):43-59. [In Korean] [Link](http://www.sdi.re.kr/sites/default/files/2010-11권1호03-김란우.pdf)
+
+## News 
+한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
 
 ## Teaching
 TBD
