@@ -38,6 +38,9 @@ Risi, Stephan, Crystal Lee, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Ki
 
 Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideational Spaces of Scientific Fields - A Network Theoretic Approach." [draft ready]
 
+### Technology and society
+**Lanu Kim**. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” [under review]
+
 ### Social structural of peripheral academia
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
@@ -51,6 +54,16 @@ Shin, Solee and **Lanu Kim**. 2013. “Organizing K-pop: Emergence and Market Ma
 Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic Approach on Voting Behaviors in the 17th Korean Assembly Using NOMINATE Analysis.” _Korean Journal of Sociology_ 46(1):1-23. [In Korean] [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01316335)
 
 **Lanu Kim**. 2010. “A Study of Change in Residence Stability through Analyzing Home-Ownership Rates: A Case Study in Seoul, Republic of Korea, 1985-2005.” _Seoul Studies_ 11(1):43-59. [In Korean] [Link](http://www.sdi.re.kr/sites/default/files/2010-11권1호03-김란우.pdf)
+
+## Awards
+* Data science scholar. Stanford University. 2020-2021. [Link](https://datascience.stanford.edu/people/lanu-kim)
+* Fulbright graduate study fellowship. 2011-2013.
+* Best paper award, Korean sociological association. 2013. 
+
+## Grants
+* Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _consultant_ [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
+* Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _PI_ 
+* Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _research assistant_ [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
 
 ## News 
 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
