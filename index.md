@@ -3,8 +3,10 @@
 I am a postdoctoral researcher at Stanford University and also work as a Data Science Scholar at Stanford’s Data Science Institute. My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 As a sociology Ph.D. participating in multiple projects rooted in big data and computational methods, I present three elements of my agenda that I will bring to my future teaching and research.  
-1. I believe the future of scholarship lies in interdisciplinary research. From my academic experience, I recognize that advances in data science have the potential to unlock enormous opportunities that will require both excellent data management/analysis expertise and the ability to ask key research questions. Thus, one primary motivation for my work lies in fully exploring these research opportunities.  
+1. I believe the future of scholarship lies in interdisciplinary research. From my academic experience, I recognize that advances in data science have the potential to unlock enormous opportunities that will require both excellent data management/analysis expertise and the ability to ask key research questions. Thus, one primary motivation for my work lies in fully exploring these research opportunities.
+
 2. I have found a unique role for sociology in data science research pursued by such interdisciplinary teams. Sociology offers abundant theoretical scaffolding, which helps explain underlying organizational processes found in big data. My research and mentorship provide an insightful perspective that can guide big data research to have both theoretical and substantive meanings in society, which strengthens my niche in interdisciplinary research.  
+
 3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
 
 ## Contact Info
@@ -20,7 +22,7 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **M.A.** 2014. Sociology, University of Washington.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
-## Projects and following publications/working papers
+## Projects and publications/working papers
 
 ### Echo chambers in science?
 
