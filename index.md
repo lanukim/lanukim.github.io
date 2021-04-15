@@ -6,7 +6,7 @@ I am a postdoctoral researcher at Stanford University and also work as a Data Sc
 * Email: lanu.at.stanford.edu
 * Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ)
 
-## Research interest keywords
+## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis
 
 ## Education
@@ -15,7 +15,7 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **M.A.** 2014. Sociology, University of Washington.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
-## Projects and publications/working papers
+## Projects and Publications/Working Papers
 
 ### Echo chambers in science?
 
@@ -74,7 +74,7 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _Principal Investigator_. 
 * Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
 
-## Agenda on teaching and research
+## Agenda on Teaching and Research
 As a sociology Ph.D. participating in multiple projects rooted in big data and computational methods, I present three elements of my agenda that I bring to my teaching and research.  
 
 1. I believe the future of scholarship lies in interdisciplinary research. From my academic experience, I recognize that advances in data science have the potential to unlock enormous opportunities that will require both excellent data management/analysis expertise and the ability to ask key research questions. Thus, one primary motivation for my work lies in fully exploring these research opportunities.
