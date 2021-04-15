@@ -7,7 +7,7 @@ I am a postdoctoral fellow at Stanford University. And .........
 * Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ)
 
 ## Research interest keywords
-Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Big Data; Gender; Inequality; Social Network Analysis
+Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis
 
 ## Education
 **Postdoctoral fellow**. 2018-2021. Graduate School of Education, Stanford University.  
@@ -34,14 +34,14 @@ Risi, Stephan, Crystal Lee, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Ki
 ### Social and conceptual networks in academia
 **Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel McFarland. “A Network Ecology of Scholar Collaborations.” [under review]
 
-**Lanu Kim**1, Hancheng Cao1, and Daniel McFarland. “Rediscovering Aristotle: Are We Creating New Science or Repackaging Old Science?” [1 co-first author] 
+**Lanu Kim**^, Hancheng Cao^, and Daniel McFarland. “Rediscovering Aristotle: Are We Creating New Science or Repackaging Old Science?” [^ co-first author] 
 
 Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideational Spaces of Scientific Fields - A Network Theoretic Approach." [draft ready]
 
 ### Technology and society
 **Lanu Kim**. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” [under review]
 
-### Social structural of peripheral academia
+### Knowledge structure of peripheral academia
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
 ### Korean society
@@ -61,9 +61,9 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Best paper award, Korean sociological association. 2013. 
 
 ## Grants
-* Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _consultant_ [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
-* Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _PI_ 
-* Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _research assistant_ [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
+* Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _Consultant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
+* Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _Principal Investigator_. 
+* Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
 
 ## News 
 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
