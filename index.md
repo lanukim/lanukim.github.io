@@ -2,13 +2,6 @@
 
 I am a postdoctoral researcher at Stanford University and also work as a Data Science Scholar at Stanford’s Data Science Institute. My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
-As a sociology Ph.D. participating in multiple projects rooted in big data and computational methods, I present three elements of my agenda that I will bring to my future teaching and research.  
-1. I believe the future of scholarship lies in interdisciplinary research. From my academic experience, I recognize that advances in data science have the potential to unlock enormous opportunities that will require both excellent data management/analysis expertise and the ability to ask key research questions. Thus, one primary motivation for my work lies in fully exploring these research opportunities.
-
-2. I have found a unique role for sociology in data science research pursued by such interdisciplinary teams. Sociology offers abundant theoretical scaffolding, which helps explain underlying organizational processes found in big data. My research and mentorship provide an insightful perspective that can guide big data research to have both theoretical and substantive meanings in society, which strengthens my niche in interdisciplinary research.  
-
-3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
-
 ## Contact Info
 * Email: lanu.at.stanford.edu
 * Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ)
@@ -80,6 +73,15 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _Consultant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
 * Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _Principal Investigator_. 
 * Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
+
+## Agenda on teaching and research
+As a sociology Ph.D. participating in multiple projects rooted in big data and computational methods, I present three elements of my agenda that I bring to my teaching and research.  
+
+1. I believe the future of scholarship lies in interdisciplinary research. From my academic experience, I recognize that advances in data science have the potential to unlock enormous opportunities that will require both excellent data management/analysis expertise and the ability to ask key research questions. Thus, one primary motivation for my work lies in fully exploring these research opportunities.
+
+2. I have found a unique role for sociology in data science research pursued by such interdisciplinary teams. Sociology offers abundant theoretical scaffolding, which helps explain underlying organizational processes found in big data. My research and mentorship provide an insightful perspective that can guide big data research to have both theoretical and substantive meanings in society, which strengthens my niche in interdisciplinary research.  
+
+3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
 
 ## Software
 * R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
