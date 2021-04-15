@@ -10,10 +10,10 @@ I am a postdoctoral fellow at Stanford University. And .........
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Big Data; Gender; Inequality; Social Network Analysis
 
 ## Education
-**Postdoctoral fellow**. 2018-2021. Graduate School of Education, Stanford University.
-**Ph.D.** 2018. Sociology, University of Washington.
-**M.A.** 2014. Sociology, University of Washington.
-**B.A.** 2007. Sociology and economics, Seoul National University.
+**Postdoctoral fellow**. 2018-2021. Graduate School of Education, Stanford University.  
+**Ph.D.** 2018. Sociology, University of Washington.  
+**M.A.** 2014. Sociology, University of Washington.  
+**B.A.** 2007. Sociology and economics, Seoul National University.  
 
 ## Publications and working papers
 
