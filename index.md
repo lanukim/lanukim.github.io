@@ -11,40 +11,37 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 ## Education
 **Postdoctoral fellow**. 2018-2021. Graduate School of Education, Stanford University.
-
 **Ph.D.** 2018. Sociology, University of Washington.
-
 **M.A.** 2014. Sociology, University of Washington.
-
 **B.A.** 2007. Sociology and economics, Seoul National University.
 
 ## Publications and working papers
 
-* **Echo chambers in science?**
+###Echo chambers in science?
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
 
 **Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information School and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
 
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. “Identifying Marginals Bias on Measures of Inequality.” [working paper]
 
-* **Gender inequality in academia**
+###Gender inequality in academia
 **Lanu Kim**, Daniel Smith, Bas Hofstra, and Daniel McFarland. “Gendered Knowledge and Its Impact on Career Outcomes.” [under review after R&R]
 
 **Lanu Kim**, Bas Hofstra, and Sebastian Galvez. “Differential Return on Performance Persists the Gender Pay Gap among Faculty in the Public University System.” [draft ready]
 
 Risi, Stephan, Crystal Lee, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. “What Would History Look Like Without Women?” [under review]
 
-* **Social and conceptual networks in academia**
+###Social and conceptual networks in academia
 **Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel McFarland. “A Network Ecology of Scholar Collaborations.” [under review]
 
 **Lanu Kim***, Hancheng Cao*, and Daniel McFarland. “Rediscovering Aristotle: Are We Creating New Science or Repackaging Old Science?” [* co-first author] 
 
 Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideational Spaces of Scientific Fields - A Network Theoretic Approach." [draft ready]
 
-* **Social structural of peripheral academia**
+###Social structural of peripheral academia
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” Korean Journal of Sociology 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
-* **Korean society**
+###Korean society
 Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. “Economic Foundation of Marriage in the Context of Labor Market Uncertainty in South Korea.” [Conditional accept]
 
 Shin, Solee and **Lanu Kim**. 2020. “Chaebol’s Turn to Service: Rise of a Korean Service Economy and the Dynamics of Self-Employment and Wage Work.” Journal of Contemporary Asia 50(3):433-456. [Link](https://doi.org/10.1080/00472336.2019.1565130)
