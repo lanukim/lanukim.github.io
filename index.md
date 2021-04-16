@@ -2,10 +2,6 @@
 
 I am a postdoctoral researcher at Stanford University and also work as a Data Science Scholar at Stanford’s Data Science Institute. My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
-## Contact Info
-* Email: lanu.at.stanford.edu
-* Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ)
-
 ## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis
 
@@ -83,11 +79,11 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 
 3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
 
-## Software
-* R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
-
 ## News 
 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
+
+## Software
+* R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
 
 ## Teaching
 TBD
