@@ -35,6 +35,15 @@
         </p>
         {% endif %}
 
+        <p class="view">
+          <a href="{{ link.about }}">About</a><br/>
+          <a href="{{ link.projects }}">Projects</a><br/>
+          <a href="{{ link.awards }}">Awards and grants</a><br/>
+          <a href="{{ link.agenda }}">Agenda on teaching and research</a><br/>
+          <a href="{{ link.news }}">News</a><br/>
+          <a href="{{ link.teaching }}">Teaching</a><br/>
+    </p>
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
