@@ -50,7 +50,7 @@ Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideati
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
 ### Korean society
-Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. “Economic Foundation of Marriage in the Context of Labor Market Uncertainty in South Korea.” [Conditional accept]
+Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. “Economic Foundation of Marriage in the Context of Labor Market Uncertainty in South Korea.” [accepted in _Asian Population Studies_]
 
 Shin, Solee and **Lanu Kim**. 2020. “Chaebol’s Turn to Service: Rise of a Korean Service Economy and the Dynamics of Self-Employment and Wage Work.” _Journal of Contemporary Asia_ 50(3):433-456. [Link](https://doi.org/10.1080/00472336.2019.1565130)
 
