@@ -28,11 +28,22 @@
 
         {% if site.github.is_user_page %}
         <p class="view">
+          <a href="{{ site.email }}">Email</a><br />
           <a href="{{ site.cv }}">C.V.</a><br />
-          <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+          <a href="{{ site.gs }}">View My Google Scholar Profile</a><br />
+          <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>          
         </p>
         {% endif %}
 
+        <p class="view">
+          <a href="#about">About</a><br/>
+          <a href="#projects-and-publicationsworking-papers">Projects</a><br/>
+          <a href="#awards">Awards and grants</a><br/>
+          <a href="#agenda-on-teaching-and-research">Agenda on teaching and research</a><br/>
+          <a href="#news">News</a><br/>
+          <a href="#teaching">Teaching</a><br/>
+    </p>
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>

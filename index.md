@@ -1,10 +1,6 @@
 ## About
 
-I am a postdoctoral researcher at Stanford University and also work as a Data Science Scholar at Stanford’s Data Science Institute. My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
-
-## Contact Info
-* Email: lanu.at.stanford.edu
-* Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=77i0fdMAAAAJ)
+I am an assistant professor at Korea Advance Institute of Science and Technology (KAIST). My research broadly contributes to the theoretical understanding of the process of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods, and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 ## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis
@@ -54,7 +50,7 @@ Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideati
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
 ### Korean society
-Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. “Economic Foundation of Marriage in the Context of Labor Market Uncertainty in South Korea.” [Conditional accept]
+Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. “Labour Market Uncertainty and the Economic Foundations of Marriage in South Korea.” _Asian Population Studies_ Published online. [Link](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)
 
 Shin, Solee and **Lanu Kim**. 2020. “Chaebol’s Turn to Service: Rise of a Korean Service Economy and the Dynamics of Self-Employment and Wage Work.” _Journal of Contemporary Asia_ 50(3):433-456. [Link](https://doi.org/10.1080/00472336.2019.1565130)
 
@@ -83,11 +79,12 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 
 3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
 
-## Software
-* R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
-
 ## News 
 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
 
+## Software
+* R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
+
 ## Teaching
-TBD
+* Computational Sociology
+* Introduction to Sociology
