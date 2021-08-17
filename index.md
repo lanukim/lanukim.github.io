@@ -1,6 +1,6 @@
 ## About
 
-I am an assistant professor at the Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Sanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
+I am an assistant professor in the school of humanities and social sciences([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)), Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Sanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 ## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis
@@ -44,7 +44,7 @@ I have been examining the structure of the formation of collaboration networks a
 Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideational Spaces of Scientific Fields - A Network Theoretic Approach." [draft ready]
 
 ### Technology and society
-**Lanu Kim**. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” [under review]
+**Lanu Kim**. 2021. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” _Sage open._ [Link](https://doi.org/10.1177/21582440211037663)
 
 ### Knowledge structure of peripheral academia
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
