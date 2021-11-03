@@ -11,6 +11,19 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **M.A.** 2014. Sociology, University of Washington.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
+## Recent Publications
+
+**Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
+
+Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. 2021. “Labour Market Uncertainty and the Economic Foundations of Marriage in South Korea.” _Asian Population Studies_ Published online. [Link](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)
+
+**Lanu Kim**. 2021. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” _Sage open._ [Link](https://doi.org/10.1177/21582440211037663)
+
+**Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
+
+**Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information School and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
+
+
 ## Projects and Publications/Working Papers
 
 ### Echo chambers in science?
@@ -27,7 +40,7 @@ While pursuing my Ph.D., I examined how technology has shaped our work practices
 
 As a postdoctoral fellow at Stanford, I have been involved in projects that study the role of gender in the process of knowledge creation. I began a project to investigate whether gendered research interests contribute to women’s underrepresentation in the professoriate. Through analyzing nearly 1 million PhDs who received a degree in U.S. institutions, this research has employed natural language processing techniques and advanced statistical methods to locate potential systematic bias toward particular research ideas. I have found that scientific knowledge associated with women (e.g., schooling or infants) is devalued in academia. 
 
-**Lanu Kim**, Daniel Smith, Bas Hofstra, and Daniel McFarland. “Gendered Knowledge and Its Impact on Career Outcomes.” [under review after R&R]
+**Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
 
 **Lanu Kim**, Bas Hofstra, and Sebastian Munoz-Najar Galvez. “Differential Return on Performance Persists the Gender Pay Gap among Faculty in the Public University System.” [draft ready]
 
