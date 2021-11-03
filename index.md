@@ -14,10 +14,15 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 ## Recent Publications
 
 **Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
+
 Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. 2021. “Labour Market Uncertainty and the Economic Foundations of Marriage in South Korea.” _Asian Population Studies_ Published online. [Link](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)
+
 **Lanu Kim**. 2021. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” _Sage open._ [Link](https://doi.org/10.1177/21582440211037663)
+
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
+
 **Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information School and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
+
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
 ## Projects and Publications/Working Papers
