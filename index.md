@@ -23,7 +23,7 @@ Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. 2021. “Labour Market Uncertainty
 
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
 
-**Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information School and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
+**Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information Science and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
 
 **Lanu Kim**, Sue-yeon Song. 2020. “Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology.” _Korean Journal of Sociology_ 54(4):1-40. (in Korean) [Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)
 
@@ -35,7 +35,7 @@ While pursuing my Ph.D., I examined how technology has shaped our work practices
 
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
 
-**Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information School and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
+**Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information Science and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
 
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. “Identifying Marginals Bias on Measures of Inequality.” [working paper]
 
