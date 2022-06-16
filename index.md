@@ -13,7 +13,11 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 ## Recent Publications
 
+**Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2022. “Networking a career: Individual adaptation in the network ecology of faculty.” _Social Networks_ (online). [Link](https://doi.org/10.1016/j.socnet.2022.04.002)
+
 **Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
+
+Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. 2022. “Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas.” _PloS one_ 17(1): e0262027. [Link](https://doi.org/10.1371/journal.pone.0262027)
 
 Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, **Lanu Kim**, Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar. 2021. "Opportunities and Barriers to Rural Telerobotic Surgical Health Care in 2021: Report and Research Agenda from a Stakeholder Workshop." _Telemedicine and e-Health_ Published online. [Link](https://doi.org/10.1089/tmj.2021.0378)
 
@@ -47,13 +51,13 @@ As a postdoctoral fellow at Stanford, I have been involved in projects that stud
 
 **Lanu Kim**, Bas Hofstra, and Sebastian Munoz-Najar Galvez. “Differential Return on Performance Persists the Gender Pay Gap among Faculty in the Public University System.” [draft ready]
 
-Risi, Stephan, Crystal Lee, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. “What Would History Look Like Without Women?” [under review]
+Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. 2022. “Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas.” _PloS one_ 17(1): e0262027. [Link](https://doi.org/10.1371/journal.pone.0262027)
 
 ### Social and conceptual networks in academia
 
 I have been examining the structure of the formation of collaboration networks among faculty by combining several types of data sets, including grants, publications, and dissertation committees. In this project, I ask how faculty develops different types of collaborations and how to find who to connect.
 
-**Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel McFarland. “A Network Ecology of Scholar Collaborations.” [under review]
+**Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2022. “Networking a career: Individual adaptation in the network ecology of faculty.” _Social Networks_ (online). [Link](https://doi.org/10.1016/j.socnet.2022.04.002)
 
 **Lanu Kim**^, Hancheng Cao^, and Daniel McFarland. “Rediscovering Aristotle: Are We Creating New Science or Repackaging Old Science?” [^ co-first author] 
 
