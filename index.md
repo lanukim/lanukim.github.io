@@ -6,13 +6,13 @@ I am an assistant professor in the school of humanities and social sciences ([Li
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis; Technology and Society
 
 ## Academic Positions
-2018-2021 **Postdoctoral fellow**. Graduate School of Education, Stanford University.  
+2018-2021 Postdoctoral fellow. Graduate School of Education, Stanford University.  
 
-2021- **Assistant professor**. School of Digital Humanities and Computational Social Sciences, KAIST.
+2021- Assistant professor. School of Digital Humanities and Computational Social Sciences, KAIST.
 
-2021- **Joint professor**, School of Computing, KAIST.
+2021- Joint professor, School of Computing, KAIST.
 
-2023- **Joint professor**, Graduate School of Data Science, KAIST.
+2023- Joint professor, Graduate School of Data Science, KAIST.
 
 ## Education
 **Ph.D.** 2018. Sociology, University of Washington.  
@@ -113,12 +113,12 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 * R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
 
 ## Teaching
-### Undergraduate-level course
+### Undergraduate-level courses
 * Computational Social Science 
 * Introduction to Sociology 
 * Science, Technology, and Society
 
-### Graduate-level course
+### Graduate-level courses
 * Recent Trends in Computational Social Science
 * Introduction to Digital Humanities and Computational Social Sciences (co-teaching)
 * Special Topics in Smart Convergence <Smart Mobility Design for Designer, Engineer, and Data Scientist>
