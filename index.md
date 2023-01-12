@@ -1,29 +1,26 @@
 ## About
 
-I am an assistant professor in the school of humanities and social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)), Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
+I am an assistant professor in the school of humanities and social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 ## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis; Technology and Society
 
+## Academic Appointments
+2018-2021 **Postdoctoral fellow**. Graduate School of Education, Stanford University.  
+2021- **Assistant professor**. School of Digital Humanities and Computational Social Sciences, KAIST
+2021- **Joint professor**, School of Computing, KAIST
+2023- **Joint professor**, Graduate School of Data Science, KAIST
+
 ## Education
-**Postdoctoral fellow**. 2018-2021. Graduate School of Education, Stanford University.  
 **Ph.D.** 2018. Sociology, University of Washington.  
 **M.A.** 2014. Sociology, University of Washington.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
-## Recent Publications
+## Selected Publications
 
 **Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2022. “Networking a career: Individual adaptation in the network ecology of faculty.” _Social Networks_ (online). [Link](https://doi.org/10.1016/j.socnet.2022.04.002)
 
 **Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
-
-Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. 2022. “Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas.” _PloS one_ 17(1): e0262027. [Link](https://doi.org/10.1371/journal.pone.0262027)
-
-Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, **Lanu Kim**, Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar. 2021. "Opportunities and Barriers to Rural Telerobotic Surgical Health Care in 2021: Report and Research Agenda from a Stakeholder Workshop." _Telemedicine and e-Health_ Published online. [Link](https://doi.org/10.1089/tmj.2021.0378)
-
-Yoon, Soo-Yeon, Sojung Lim, and **Lanu Kim**. 2021. “Labour Market Uncertainty and the Economic Foundations of Marriage in South Korea.” _Asian Population Studies_ Published online. [Link](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)
-
-**Lanu Kim**. 2021. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” _Sage open._ [Link](https://doi.org/10.1177/21582440211037663)
 
 **Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
 
@@ -66,6 +63,8 @@ Vivek Kulkarni, **Lanu Kim**, Daniel McFarland. "Modeling Tie Dynamics in Ideati
 ### Technology and society
 Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, **Lanu Kim**, Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar. 2021. "Opportunities and Barriers to Rural Telerobotic Surgical Health Care in 2021: Report and Research Agenda from a Stakeholder Workshop." _Telemedicine and e-Health_ Published online. [Link](https://doi.org/10.1089/tmj.2021.0378)
 
+Serafini, Brian, **Lanu Kim**, Basil M. Saour, Ryan James, Blake Hannaford, Ryan Hansen, Tadayoshi Kohno, Wayne Monsky, and Stephen P. Seslar. 2022. "Exploring telerobotic cardiac catheter ablation in a rural community hospital: A pilot study." _Cardiovascular Digital Health Journal_ 3(6): 313-319. [Link](https://doi.org/10.1016/j.cvdhj.2022.10.003)
+
 **Lanu Kim**. 2021. “Geographical Locations of Occupations and Information and Communication Technology: Do Online Tools Impact Where People in the U.S. Live and Work?” _Sage open._ [Link](https://doi.org/10.1177/21582440211037663)
 
 ### Knowledge structure of peripheral academia
@@ -83,6 +82,7 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 **Lanu Kim**. 2010. “A Study of Change in Residence Stability through Analyzing Home-Ownership Rates: A Case Study in Seoul, Republic of Korea, 1985-2005.” _Seoul Studies_ 11(1):43-59. [In Korean] [Link](http://www.sdi.re.kr/sites/default/files/2010-11권1호03-김란우.pdf)
 
 ## Awards
+* Research Innovation Awards of the College of Liberal Arts and Convergence Science, KAIST. 2022.
 * Data science scholar. Stanford University. 2020-2021. [Link](https://datascience.stanford.edu/people/lanu-kim)
 * Fulbright graduate study fellowship. 2011-2013.
 * Best paper award, Korean sociological association. 2013. 
@@ -102,11 +102,20 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
 
 ## News 
+Research associated with women deemed less worthy, study finds. Nature Index. 2022.1.27. [Link](https://www.nature.com/nature-index/news-blog/research-associated-with-women-deemed-less-worthy-study-finds)
+Stanford research reveals a hidden obstacle for women in academia. Stanford News. 2021.12.16. [Link](https://news.stanford.edu/press-releases/2021/12/16/hidden-obstacle-women-academia/)
 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
 
 ## Software
 * R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
 
 ## Teaching
-* Computational Sociology
-* Introduction to Sociology
+### Undergraduate-level course
+* Computational Social Science 
+* Introduction to Sociology 
+* Science, Technology, and Society
+
+### Graduate-level course
+* Recent Trends in Computational Social Science
+* Introduction to Digital Humanities and Computational Social Sciences (co-teaching)
+* Special Topics in Smart Convergence <Smart Mobility Design for Designer, Engineer, and Data Scientist>
