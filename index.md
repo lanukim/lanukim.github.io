@@ -7,9 +7,12 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 ## Academic Positions
 2018-2021 **Postdoctoral fellow**. Graduate School of Education, Stanford University.  
-2021- **Assistant professor**. School of Digital Humanities and Computational Social Sciences, KAIST
-2021- **Joint professor**, School of Computing, KAIST
-2023- **Joint professor**, Graduate School of Data Science, KAIST
+
+2021- **Assistant professor**. School of Digital Humanities and Computational Social Sciences, KAIST.
+
+2021- **Joint professor**, School of Computing, KAIST.
+
+2023- **Joint professor**, Graduate School of Data Science, KAIST.
 
 ## Education
 **Ph.D.** 2018. Sociology, University of Washington.  
@@ -102,9 +105,9 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 3. I am committed to encouraging gender and racial/ethnic minority scholars to utilize data science. While computational methods are shaping many new research directions in the social sciences, ingrained cultural beliefs concerning gender have frequently and consistently discouraged women from pursuing math-based career trajectories. 
 
 ## News 
-Research associated with women deemed less worthy, study finds. Nature Index. 2022.1.27. [Link](https://www.nature.com/nature-index/news-blog/research-associated-with-women-deemed-less-worthy-study-finds)
-Stanford research reveals a hidden obstacle for women in academia. Stanford News. 2021.12.16. [Link](https://news.stanford.edu/press-releases/2021/12/16/hidden-obstacle-women-academia/)
-한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
+* Research associated with women deemed less worthy, study finds. Nature Index. 2022.1.27. [Link](https://www.nature.com/nature-index/news-blog/research-associated-with-women-deemed-less-worthy-study-finds)
+* Stanford research reveals a hidden obstacle for women in academia. Stanford News. 2021.12.16. [Link](https://news.stanford.edu/press-releases/2021/12/16/hidden-obstacle-women-academia/)
+* 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
 
 ## Software
 * R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
