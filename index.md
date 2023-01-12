@@ -5,7 +5,7 @@ I am an assistant professor in the school of humanities and social sciences ([Li
 ## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis; Technology and Society
 
-## Academic Appointments
+## Academic Positions
 2018-2021 **Postdoctoral fellow**. Graduate School of Education, Stanford University.  
 2021- **Assistant professor**. School of Digital Humanities and Computational Social Sciences, KAIST
 2021- **Joint professor**, School of Computing, KAIST
