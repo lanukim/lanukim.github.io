@@ -6,13 +6,13 @@ I am an assistant professor in the school of humanities and social sciences ([Li
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis; Technology and Society
 
 ## Academic Positions
-2018-2021 Postdoctoral fellow. Graduate School of Education, Stanford University.  
-
 2021- Assistant professor. School of Digital Humanities and Computational Social Sciences, KAIST.
 
 2021- Joint professor, School of Computing, KAIST.
 
 2023- Joint professor, Graduate School of Data Science, KAIST.
+
+2018-2021 Postdoctoral fellow. Graduate School of Education, Stanford University.  
 
 ## Education
 **Ph.D.** 2018. Sociology, University of Washington.  
