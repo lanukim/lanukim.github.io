@@ -85,6 +85,7 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 **Lanu Kim**. 2010. “A Study of Change in Residence Stability through Analyzing Home-Ownership Rates: A Case Study in Seoul, Republic of Korea, 1985-2005.” _Seoul Studies_ 11(1):43-59. [In Korean] [Link](http://www.sdi.re.kr/sites/default/files/2010-11권1호03-김란우.pdf)
 
 ## Awards
+* Excellence in Teaching Award, KAIST. 2023. 
 * Research Innovation Awards of the College of Liberal Arts and Convergence Science, KAIST. 2022.
 * Data science scholar. Stanford University. 2020-2021. [Link](https://datascience.stanford.edu/people/lanu-kim)
 * Fulbright graduate study fellowship. 2011-2013.
@@ -117,8 +118,9 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 * Computational Social Science 
 * Introduction to Sociology 
 * Science, Technology, and Society
+* Special Topics in Smart Convergence <Smart Mobility Design for Designer, Engineer, and Data Scientist>
 
 ### Graduate-level courses
 * Recent Trends in Computational Social Science
 * Introduction to Digital Humanities and Computational Social Sciences (co-teaching)
-* Special Topics in Smart Convergence <Smart Mobility Design for Designer, Engineer, and Data Scientist>
+
