@@ -2,6 +2,8 @@
 
 I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
+If you’re interested in projects that are under review or have drafts ready, I’d be happy to share — just send me an email.
+
 ## Research Interest Keywords
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis; Technology and Society
 
@@ -144,6 +146,19 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _Consultant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
 * Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _Principal Investigator_. 
 * Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
+
+## Services
+### Editorial board member
+* American sociological review
+
+### Journal reviews
+* American sociological review, Social Forces, Research policy, Nature communications, BMJ, Korean journal of sociology, and etc.  
+
+### Conference reviews
+* IC2S2, CHI
+
+### SICSS organizer
+* 2022 [Link](https://sicss.io/2022/korea/people), 2023 [Link](https://sicss.io/2023/korea/people), 2024 [Link](https://sicss.io/2024/korea/people). 
 
 ## Agenda on Teaching and Research
 As a sociology Ph.D. participating in multiple projects rooted in big data and computational methods, I present three elements of my agenda that I bring to my teaching and research.  
