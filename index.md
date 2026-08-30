@@ -1,6 +1,6 @@
 ## About
 
-I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I'm running Computational Sociology Lab at KAIST (https://computationalsociologylab.github.io). I am always open to new collaboration opportunities. Please contact me via email if you are interested.
+I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I'm running the Computational Sociology Lab at KAIST ([Link](https://computationalsociologylab.github.io)), which is a vibrant community that connects people interested in applying data science to various social problems. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 If you’re interested in projects that are under review or have drafts ready, I’d be happy to share — just send me an email.
 
@@ -30,15 +30,13 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 ## Recent Publications
 
+Hyeongjae Lee, Jihyang Cheon, and **Lanu Kim**. 2026. “Who Delegates to AI? Evidence from 53,000 Agent Configurations.” _arXiv preprint_ arXiv:2608.20425. [Link](https://arxiv.org/abs/2608.20425)
+
 Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, **Lanu Kim**. 2026. “Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders.” _Asian Journal of Business Ethics_ 15:189-208. [Link](https://doi.org/10.1007/s13520-025-00250-y)
 
 Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
 
 Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Community-Based AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
-
-**Lanu Kim**, Bas Hofstra, and Sebastian Galvez. 2024. “A Persistent Gender Pay Gap Among Faculty in a Public University System.” _Scientific Reports_ 14(22212). [Link](https://www.nature.com/articles/s41598-024-72871-5)
-
-**Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2024. “Networking a career: Individual adaptation in the network ecology of faculty.” _Social Networks_ 77(166-179). [Link](https://doi.org/10.1016/j.socnet.2022.04.002)
 
 
 ## Projects and Publications/Working Papers
@@ -99,7 +97,7 @@ We all talk about AI judges and lawyers, but have we seen a reliable model? Lega
 
 Youjin Hong and **Lanu Kim**. "Public Attention and Judicial Consistency: How the Public Drives Lower Court Judges’ Adherence to Guidelines." [draft ready]
 
-Kyungjong Kim and **Lanu Kim**. "The intersection of data science and organizational initiatives in voice phishing prevention." [working paper]
+Kyungjong Kim and **Lanu Kim**. 2026. “Proactive detection of voice phishing networks using call log analysis and machine learning.” _Scientific Reports_ 16(26036). [Link](https://www.nature.com/articles/s41598-026-54515-y)
 
 ### Echo chambers in science?
 
@@ -140,7 +138,6 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 *	“Changing labor and higher education in the era of digital transformation.” 2023. Korea Information Society Development Institute. PI.
 *	“Diversity and organizational culture in Samsung.” 2023-2025. Samsung DS. Co-PI.
 *	“Organizational satisfaction survey in KAIST.” 2021-2024. KAIST. PI. 
-
 * Planning for the Future of Rural Telerobotic Surgical Healthcare. NSF Grant ID: 2025814. _Consultant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=2025814&HistoricalAwards=false)
 * Search Engines Impact on How Scientists Cite. Metascience research grant funded by Fetzer Franklin Fund. _Principal Investigator_. 
 * Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
