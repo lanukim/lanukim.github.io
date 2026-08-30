@@ -183,5 +183,6 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 
 ### Graduate-level courses
 * Recent Trends in Computational Social Science
+* Statistical Analysis of Social Network Data
 * Introduction to Digital Humanities and Computational Social Sciences (co-teaching)
 
