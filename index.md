@@ -23,6 +23,7 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 ## Education
 **Ph.D.** 2018. Sociology, University of Washington.  
 **M.A.** 2014. Sociology, University of Washington.  
+**M.A.** 2009. Sociology, Seoul National University.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
 ## Selected Publications
@@ -72,7 +73,7 @@ As a postdoctoral fellow at Stanford, I have been involved in projects that stud
 
 Lake Lui, **Lanu Kim**. "Gender inequality in academia: a longitudinal study of South Korea and Taiwan (2008-2023)." [working paper]
 
-Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, **Lanu Kim**. "Greedy Leadership Roles: Why Women in Engineering Leadership Are Rare." [under review]
+Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, **Lanu Kim**. 2026. “Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders.” _Asian Journal of Business Ethics_ 15:189-208. [Link](https://doi.org/10.1007/s13520-025-00250-y)
 
 **Lanu Kim**, Bas Hofstra, and Sebastian Galvez. 2024. “A Persistent Gender Pay Gap Among Faculty in a Public University System.” _Scientific Reports_ 14(22212). [Link](https://www.nature.com/articles/s41598-024-72871-5)
 
@@ -90,7 +91,7 @@ Wenchao Dong, **Lanu Kim**, Mia Cha. "Algorithmic Implications of Gender Wage Ga
 
 I study how scientific knowledge evolves by extracting concepts from text and collaboration networks using natural language processing and social network analysis. This set of articles reflects that research focus. 
 
-Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. "Has higher education been more interdisciplinary?: evidence from longitudinal analysis using natural language processing on syllabi." [under review]
+Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
 
 **Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2022. “Networking a career: Individual adaptation in the network ecology of faculty.” _Social Networks_ (online). [Link](https://doi.org/10.1016/j.socnet.2022.04.002)
 
@@ -135,6 +136,7 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Best paper award, Korean sociological association. 2013. 
 
 ## Grants
+*	“Early Detection of Voice Phishing Phone Numbers Using Crime Big Data and Data Science Methods.” 2026-2029. National Research Foundation in South Korea. PI.
 *	“Measuring software jobs’ acceptance of generative AI technologies through applying natural language processing techniques to programming language.” 2024. KAIST. PI.
 *	“Responding to advances in artificial intelligence and the changing meaning of work in the future.” 2024. Korea Information Society Development Institute. PI.
 *	"Exploring the co-evolutionary dynamics of artificial intelligence and society: a computational social science approach." 2024-2027. National Research Foundation. Co-PI.
