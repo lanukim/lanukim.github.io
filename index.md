@@ -32,6 +32,8 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 Hyeongjae Lee, Jihyang Cheon, and **Lanu Kim**. 2026. “Who Delegates to AI? Evidence from 53,000 Agent Configurations.” _arXiv preprint_ arXiv:2608.20425. [Link](https://arxiv.org/abs/2608.20425)
 
+Kyungjong Kim and **Lanu Kim**. 2026. “Proactive detection of voice phishing networks using call log analysis and machine learning.” _Scientific Reports_ 16(26036). [Link](https://www.nature.com/articles/s41598-026-54515-y)
+
 Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, **Lanu Kim**. 2026. “Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders.” _Asian Journal of Business Ethics_ 15:189-208. [Link](https://doi.org/10.1007/s13520-025-00250-y)
 
 Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
@@ -47,7 +49,7 @@ From my PhD journey at the University of Washington to my time at KAIST, I’ve 
 
 Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. "Uneven Automation: ChatGPT’s Impact on Software Tasks Varies by Difficulty and Data Availability." [draft ready] (Will be presented in IC2S2 2025 and ASA 2025)
 
-Dujin Park, Suh-young Choi, **Lanu Kim**, and June Jeon. “Artificial Intelligence and the New Divide: Perceptions, Preparedness, and the Future of Labor Market Inequality.” [draft ready]
+Dujin Park, **Lanu Kim**, and June Jeon. “‘Not For Us’: Artificial Intelligence and Latent Inequality in the Labor Market.” [draft ready]
 
 Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Community-Based AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
 
