@@ -1,6 +1,6 @@
 ## About
 
-I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
+I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I'm running Computational Sociology Lab at KAIST (https://computationalsociologylab.github.io). I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 If you’re interested in projects that are under review or have drafts ready, I’d be happy to share — just send me an email.
 
@@ -8,6 +8,8 @@ If you’re interested in projects that are under review or have drafts ready, I
 Computational Social Science; Science of Science; Sociology of Knowledge; Data Science; Gender; Inequality; Social Network Analysis; Technology and Society
 
 ## Academic Positions
+2026-2027 Visiting scholar. Stanford University.
+
 2024- Associate professor. School of Digital Humanities and Computational Social Sciences, KAIST.
 
 2021- Joint professor, School of Computing, KAIST.
@@ -26,17 +28,17 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 **M.A.** 2009. Sociology, Seoul National University.  
 **B.A.** 2007. Sociology and economics, Seoul National University.  
 
-## Selected Publications
+## Recent Publications
+
+Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, **Lanu Kim**. 2026. “Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders.” _Asian Journal of Business Ethics_ 15:189-208. [Link](https://doi.org/10.1007/s13520-025-00250-y)
+
+Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
+
+Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Community-Based AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
 
 **Lanu Kim**, Bas Hofstra, and Sebastian Galvez. 2024. “A Persistent Gender Pay Gap Among Faculty in a Public University System.” _Scientific Reports_ 14(22212). [Link](https://www.nature.com/articles/s41598-024-72871-5)
 
 **Lanu Kim**, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2024. “Networking a career: Individual adaptation in the network ecology of faculty.” _Social Networks_ 77(166-179). [Link](https://doi.org/10.1016/j.socnet.2022.04.002)
-
-**Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
-
-**Lanu Kim**, Christopher Adolph, Jevin West, and Katherine Stovel. 2020. “The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction.” _Sociological Science_ 7:314-341. [Link](https://sociologicalscience.com/articles-v7-13-314/)
-
-**Lanu Kim**, Jason Portenoy, Jevin West, and Katherine Stovel. 2020. “Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives.” _Journal of the Association for Information Science and Technology_ 71(10):1218-1226. [Link](https://doi.org/10.1002/asi.24326)
 
 
 ## Projects and Publications/Working Papers
@@ -80,12 +82,6 @@ Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Ju
 **Lanu Kim**, Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland. 2022. “Gendered Knowledge in Fields and Academic Careers.” _Research Policy_ 51(1). [Link](https://doi.org/10.1016/j.respol.2021.104411)
 
 Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, **Lanu Kim**, Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger. 2022. “Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas.” _PloS one_ 17(1): e0262027. [Link](https://doi.org/10.1371/journal.pone.0262027)
-
-### Gender in LLM
-
-As more students become interested in exploring potential amplified gender inequalities in large language models (LLMs), I have started a few projects that study or utilize LLMs to examine existing inequalities in our society. Here are projects currently in development.
-
-Wenchao Dong, **Lanu Kim**, Mia Cha. "Algorithmic Implications of Gender Wage Gap and Stereotypes in the Tech Sector." [under review]
 
 ### Social and conceptual networks in academia
 
@@ -150,6 +146,9 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 * Echo Chambers in Science? The Impact of Academic Recommender Systems on the Dissemination of Scientific Knowledge. NSF Grant ID: 1735194. _Research Assistant_. [Link](https://nsf.gov/awardsearch/showAward?AWD_ID=1735194&HistoricalAwards=false)
 
 ## Services
+### Committee member
+* AI Committee, Korean Sociological Association. 2026.
+
 ### Editorial board member
 * American sociological review
 
@@ -175,9 +174,6 @@ As a sociology Ph.D. participating in multiple projects rooted in big data and c
 * Research associated with women deemed less worthy, study finds. Nature Index. 2022.1.27. [Link](https://www.nature.com/nature-index/news-blog/research-associated-with-women-deemed-less-worthy-study-finds)
 * Stanford research reveals a hidden obstacle for women in academia. Stanford News. 2021.12.16. [Link](https://news.stanford.edu/press-releases/2021/12/16/hidden-obstacle-women-academia/)
 * 한국 사회학계의 고유성은 존재하는가. 교수신문. 2021.02.01. [Link](http://www.kyosu.net/news/articleView.html?idxno=61059)
-
-## Software
-* R package (ineqReSample). [Link](https://github.com/lanukim/ineqReSample)
 
 ## Teaching
 ### Undergraduate-level courses
