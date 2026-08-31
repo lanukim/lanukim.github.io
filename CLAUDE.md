@@ -7,9 +7,9 @@ either.
 
 ## Checking for new publications
 
-When the user asks to check for new papers — any short phrasing works ("확인해줘", "새 논문
-있는지 봐줘", "check my papers", etc.) — run this whole pipeline without asking her to spell
-out the steps:
+The cue for this is **"연구 업데이트 해줘"** (or an unambiguous equivalent like "check my
+papers" — but not a bare "확인해줘", which is too vague to imply this specific pipeline).
+When she gives that cue, run this whole pipeline without asking her to spell out the steps:
 
 1. Fetch her Google Scholar profile:
    `https://scholar.google.com/citations?user=77i0fdMAAAAJ&hl=en&oi=ao`
