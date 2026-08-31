@@ -38,7 +38,7 @@ Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Ju
 
 Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
 
-Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Community-Based AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
+Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Institutionally Grounded AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
 
 
 ## Projects and Publications/Working Papers
@@ -51,7 +51,7 @@ Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. "Uneven 
 
 Dujin Park, **Lanu Kim**, and June Jeon. “‘Not For Us’: Artificial Intelligence and Latent Inequality in the Labor Market.” [draft ready]
 
-Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Community-Based AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
+Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Institutionally Grounded AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
 
 Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, **Lanu Kim**, Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar. 2021. "Opportunities and Barriers to Rural Telerobotic Surgical Health Care in 2021: Report and Research Agenda from a Stakeholder Workshop." _Telemedicine and e-Health_ Published online. [Link](https://doi.org/10.1089/tmj.2021.0378)
 
