@@ -1,6 +1,6 @@
 ## About
 
-I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I'm running the CATS Lab (Computational Analytics of Technology and Society, [Link](https://catslab-kaist.github.io)) at KAIST, which is a vibrant community that connects people interested in applying data science to various social problems. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
+I am an associate professor in the school of Digital humanities and computational social sciences ([Link](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/89)) and a joint professor in the school of computing ([Link](https://cs.kaist.ac.kr/people/view?idx=620&kind=faculty&menu=171)) and the graduate school of data science, Korea Advanced Institute of Science and Technology (KAIST). After finishing my sociology PhD at the University of Washington, I was a postdoctoral fellow and data science scholar at Stanford University. My research broadly contributes to the theoretical understanding of academic knowledge creation by mainly examining the impact of academic search engines, gender inequality in higher education, and the social structure of knowledge construction. To investigate, I utilize new big data sources, innovative analytical strategies, natural language processing, and advanced statistical methods and work with interdisciplinary research teams. I'm running the CATS Lab (Computational Analytics of Technology and Society, [Link](https://catslab.kaist.ac.kr)) at KAIST, which is a vibrant community that connects people interested in applying data science to various social problems. I am always open to new collaboration opportunities. Please contact me via email if you are interested.
 
 If you’re interested in projects that are under review or have drafts ready, I’d be happy to share — just send me an email.
 
@@ -30,6 +30,8 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 ## Recent Publications
 
+Myokyung Han, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. 2026. “The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI.” _arXiv preprint_ arXiv:2609.36069. [Link](https://arxiv.org/abs/2609.36069)
+
 Hyeongjae Lee, Jihyang Cheon, and **Lanu Kim**. 2026. “Who Delegates to AI? Evidence from 53,000 Agent Configurations.” _arXiv preprint_ arXiv:2608.20425. [Link](https://arxiv.org/abs/2608.20425)
 
 Kyungjong Kim and **Lanu Kim**. 2026. “Proactive detection of voice phishing networks using call log analysis and machine learning.” _Scientific Reports_ 16(26036). [Link](https://www.nature.com/articles/s41598-026-54515-y)
@@ -38,8 +40,6 @@ Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Ju
 
 Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
 
-Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Institutionally Grounded AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
-
 
 ## Projects and Publications/Working Papers
 
@@ -47,7 +47,7 @@ Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in 
 
 From my PhD journey at the University of Washington to my time at KAIST, I’ve felt a strong societal need to study rapidly evolving technologies and their social impacts. Researching constantly developing technology is challenging — like aiming at a moving target — but I believe it’s one of the most essential tasks for contemporary sociologists. Using computational methods, ethnography, interviews, and surveys, I explore technological change and its implications for social inequality. 
 
-Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. "Uneven Automation: ChatGPT’s Impact on Software Tasks Varies by Difficulty and Data Availability." [draft ready] (Will be presented in IC2S2 2025 and ASA 2025)
+Myokyung Han, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. 2026. “The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI.” _arXiv preprint_ arXiv:2609.36069. [Link](https://arxiv.org/abs/2609.36069)
 
 Dujin Park, **Lanu Kim**, and June Jeon. “‘Not For Us’: Artificial Intelligence and Latent Inequality in the Labor Market.” [draft ready]
 
