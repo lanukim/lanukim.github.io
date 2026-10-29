@@ -49,6 +49,8 @@ From my PhD journey at the University of Washington to my time at KAIST, I’ve 
 
 Myokyung Han, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. 2026. “The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI.” _arXiv preprint_ arXiv:2609.36069. [Link](https://arxiv.org/abs/2609.36069)
 
+**Lanu Kim**, Maida Aizaz, and Jihyang Cheon. "From Materials to Observations: Generative AI and the Validation Problem in Social Science Methods." [working paper]
+
 Dujin Park, **Lanu Kim**, and June Jeon. “‘Not For Us’: Artificial Intelligence and Latent Inequality in the Labor Market.” [draft ready]
 
 Jeon, June, **Lanu Kim**, Jaehyuk Park. 2025. “The Ethics of Generative AI in Social Science Research: A Qualitative Approach for Institutionally Grounded AI Research Ethics.” _Technology in Society_ 81(102836). [Link](https://doi.org/10.1016/j.techsoc.2025.102836)
