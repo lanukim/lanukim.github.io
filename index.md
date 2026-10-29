@@ -97,7 +97,7 @@ Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher educ
 
 We all talk about AI judges and lawyers, but have we seen a reliable model? Legal text data is highly unstructured, and everyday legal practice doesn’t always fit mathematical models. I study law and crime, exploring how data science can be applied in this field and examining what AI can — and cannot — do.
 
-Youjin Hong and **Lanu Kim**. "Public Attention and Judicial Consistency: How the Public Drives Lower Court Judges’ Adherence to Guidelines." [draft ready]
+EunRang Kwon, Youjin Hong, and **Lanu Kim**. "Accountability and Discretion: How Offense Type Shapes Judicial Adherence to Advisory Sentencing Guidelines in South Korea." [draft ready]
 
 Kyungjong Kim and **Lanu Kim**. 2026. “Proactive detection of voice phishing networks using call log analysis and machine learning.” _Scientific Reports_ 16(26036). [Link](https://www.nature.com/articles/s41598-026-54515-y)
 
