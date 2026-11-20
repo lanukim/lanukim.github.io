@@ -126,6 +126,7 @@ Chang, Dukjin, **Lanu Kim**, and Kiwoong Park. 2012. “The Political Economic A
 **Lanu Kim**. 2010. “A Study of Change in Residence Stability through Analyzing Home-Ownership Rates: A Case Study in Seoul, Republic of Korea, 1985-2005.” _Seoul Studies_ 11(1):43-59. [In Korean] [Link](http://www.sdi.re.kr/sites/default/files/2010-11권1호03-김란우.pdf)
 
 ## Awards
+* Research Impact Award, KAIST. 2026.
 * Research Innovation Awards of the College of Liberal Arts and Convergence Science, KAIST. 2024.
 * Excellence in Teaching Award, KAIST. 2023. 
 * Research Innovation Awards of the College of Liberal Arts and Convergence Science, KAIST. 2022.

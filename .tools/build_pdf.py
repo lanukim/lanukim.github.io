@@ -119,7 +119,7 @@ while story and isinstance(story[-1], Spacer):
     story.pop()
 
 doc = SimpleDocTemplate(OUT, pagesize=LETTER,
-                         topMargin=0.85*inch, bottomMargin=0.85*inch,
+                         topMargin=0.75*inch, bottomMargin=0.75*inch,
                          leftMargin=1.0*inch, rightMargin=1.0*inch)
 doc.build(story)
 print("PDF written:", OUT)
