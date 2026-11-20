@@ -65,10 +65,10 @@ heading_style = ParagraphStyle("heading", fontName="Times-Bold", fontSize=13, le
 name_style = ParagraphStyle("name", fontName="Times-Bold", fontSize=20, leading=20, alignment=TA_CENTER)
 header_style = ParagraphStyle("header", fontName="Times-Bold", fontSize=11, leading=11, alignment=TA_CENTER)
 contact_style = ParagraphStyle("contact", fontName="Times-Bold", fontSize=10.5, leading=10.5, alignment=TA_CENTER)
-body_style = ParagraphStyle("body", fontName="Times-Roman", fontSize=11, leading=13.5, alignment=TA_LEFT, spaceAfter=0)
-bullet_style = ParagraphStyle("bullet", fontName="Times-Roman", fontSize=11, leading=13.5, alignment=TA_LEFT,
+body_style = ParagraphStyle("body", fontName="Times-Roman", fontSize=11, leading=13.2, alignment=TA_LEFT, spaceAfter=0)
+bullet_style = ParagraphStyle("bullet", fontName="Times-Roman", fontSize=11, leading=13.2, alignment=TA_LEFT,
                                leftIndent=18, firstLineIndent=-14, spaceAfter=0)
-sub_style = ParagraphStyle("sub", fontName="Times-Bold", fontSize=11, leading=13.5, alignment=TA_LEFT, spaceBefore=4, spaceAfter=0)
+sub_style = ParagraphStyle("sub", fontName="Times-Bold", fontSize=11, leading=13.2, alignment=TA_LEFT, spaceBefore=4, spaceAfter=0)
 
 SECTION_HEADS = {"RESEARCH INTERESTS","ACADEMIC POSITIONS","EDUCATION","PUBLICATIONS","AWARDS",
                   "GRANTS","TEACHING","SERVICES"}

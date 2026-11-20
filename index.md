@@ -30,6 +30,8 @@ Computational Social Science; Science of Science; Sociology of Knowledge; Data S
 
 ## Recent Publications
 
+Kyungjong Kim and **Lanu Kim**. 2026. “A Call Log-Based Early Screening Model for Voice Phishing Risk Numbers: Focusing on Police–Telecommunications Cooperation.” _The Journal of Police Policies (치안정책연구)_ 40(3):343-376. [In Korean] [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003388803)
+
 Myokyung Han, Taegyoon Kim, Jinhyuk Yun, and **Lanu Kim**. 2026. “The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI.” _arXiv preprint_ arXiv:2609.36069. [Link](https://arxiv.org/abs/2609.36069)
 
 Hyeongjae Lee, Jihyang Cheon, and **Lanu Kim**. 2026. “Who Delegates to AI? Evidence from 53,000 Agent Configurations.” _arXiv preprint_ arXiv:2608.20425. [Link](https://arxiv.org/abs/2608.20425)
@@ -37,8 +39,6 @@ Hyeongjae Lee, Jihyang Cheon, and **Lanu Kim**. 2026. “Who Delegates to AI? Ev
 Kyungjong Kim and **Lanu Kim**. 2026. “Proactive detection of voice phishing networks using call log analysis and machine learning.” _Scientific Reports_ 16(26036). [Link](https://www.nature.com/articles/s41598-026-54515-y)
 
 Minyoung Choi, Myokyung Han, Suhyoung Choi, Eunhee Bae, Dongju Kim, Bong Gwan Jun, **Lanu Kim**. 2026. “Greedy Leadership Roles: Why Modern Organizations Struggle to Retain Women Leaders.” _Asian Journal of Business Ethics_ 15:189-208. [Link](https://doi.org/10.1007/s13520-025-00250-y)
-
-Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing.” _Humanities and Social Sciences Communications_ 12(1841). [Link](https://doi.org/10.1057/s41599-025-06126-7)
 
 
 ## Projects and Publications/Working Papers
@@ -100,6 +100,8 @@ Youjin Hong, Byungjun Kim, June Jeon, and **Lanu Kim**. 2025. “Has higher educ
 We all talk about AI judges and lawyers, but have we seen a reliable model? Legal text data is highly unstructured, and everyday legal practice doesn’t always fit mathematical models. I study law and crime, exploring how data science can be applied in this field and examining what AI can — and cannot — do.
 
 EunRang Kwon, Youjin Hong, and **Lanu Kim**. "Accountability and Discretion: How Offense Type Shapes Judicial Adherence to Advisory Sentencing Guidelines in South Korea." [draft ready]
+
+Kyungjong Kim and **Lanu Kim**. 2026. “A Call Log-Based Early Screening Model for Voice Phishing Risk Numbers: Focusing on Police–Telecommunications Cooperation.” _The Journal of Police Policies (치안정책연구)_ 40(3):343-376. [In Korean] [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003388803)
 
 Kyungjong Kim and **Lanu Kim**. 2026. “Proactive detection of voice phishing networks using call log analysis and machine learning.” _Scientific Reports_ 16(26036). [Link](https://www.nature.com/articles/s41598-026-54515-y)
 
